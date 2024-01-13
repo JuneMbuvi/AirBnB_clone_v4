@@ -161,4 +161,7 @@ David Ovalle - [Github](https://github.com/Nukemenonai) / [Twitter](https://twit
 
 Second part of Airbnb: Joann Vuong
 ## License
+Web dynamic - JuneMbuvi
+Github - https://github.com/JuneMbuvi/AirBnB_clone_v4
+LinkedIn - June Mbuvi / [Twitter](LorainMbuvi)
 Public Domain. No copy write protection. 
